@@ -60,5 +60,5 @@ Practical applications of circular linked list are :
 4)Computer Networking:Circular linked list is also used in computer networking for token scheduling.
 5)Implementation of Data Structure: Data structures such as stacks and queues are implemented with the help of the circular linked lists.
 6)Audio/Video Streaming: Circular linked list is also used in audio and video streaming,for ex. when one copmlete audio list finishes playing in music player then it again starts playing from start.
-7)Civil Engineering : Data about water level in Dams and their current remaining capacity can be stored in a circular linked list to create a dynamic datbase
+7)Civil Engineering : Data about water level in Dams and their current remaining capacity can be stored in a circular linked list to create a dynamic database
 */
